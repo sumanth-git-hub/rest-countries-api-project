@@ -57,11 +57,10 @@ npm install
 npm run dev
 
 ## 📸 Screenshots
-
-## 📸 Screenshots
-
+Homepage preview in desktop
 ![Homepage](./assets/screenshots/home.png)
 
+Detailed dynamic country page preview in desktop
 ![Country Detail Page](./assets/screenshots/country-detail.png)
 
 
